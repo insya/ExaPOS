@@ -11,6 +11,8 @@ Hızlı satış yapan her işletme için ücretsiz POS programı: market, bakkal
 
 **İndir:** [ExaPOS.exe](https://github.com/insya/ExaPOS/releases/latest/download/ExaPOS.exe) · Windows 10 ve 11 (64 bit)
 
+Windows 7 ve 8.1 için: [ExaPOS-Win7.exe](https://github.com/insya/ExaPOS/releases/latest/download/ExaPOS-Win7.exe) (64 ve 32 bit)
+
 Tanıtım: https://examuhasebe.com/pos-programi
 
 Bu depo yalnız kurulum dosyalarını ve güncellemeleri dağıtır.
